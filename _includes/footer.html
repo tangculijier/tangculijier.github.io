@@ -163,7 +163,16 @@
 </script>
 {% endif %}
 
+<!-- target _blank -->
+<script>
 
+    var aTags = document.querySelectorAll('a');
+    for (var i = 0; i < aTags.length; i++) 
+	{
+        aTags[i].setAttribute('target', '_blank')
+	}
+
+</script>
 <!-- Baidu Tongji -->
 {% if site.ba_track_id %}
 <script>
