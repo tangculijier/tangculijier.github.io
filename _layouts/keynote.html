@@ -233,6 +233,19 @@ layout: default
       s.parentNode.insertBefore(o, s);
     }
 </script>
+
+
+<!-- target _blank -->
+<script>
+
+    var aTags = document.querySelectorAll('a');
+    for (var i = 0; i < aTags.length; i++) 
+	{
+        aTags[i].setAttribute('target', '_blank')
+	}
+
+</script>
+
 <!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
 <script>
     async("http://cdn.bootcss.com/anchor-js/1.1.1/anchor.min.js",function(){
