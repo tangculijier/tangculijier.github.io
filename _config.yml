@@ -1,6 +1,6 @@
 # Site settings
-title: 黄励哲1
-SEOTitle: 黄励哲1 | 博客
+title: 黄励哲
+SEOTitle: 黄励哲 | 博客
 header-img: img/home-bg.jpg
 email: tangculijier@foxmail.com
 description: "这是一个神奇的网站"
@@ -70,7 +70,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我就是随便写写haha"
+sidebar-about-description: "我就是随便写写??"
 sidebar-avatar: /img/avatar-tangculijier.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -79,7 +79,7 @@ sidebar-avatar: /img/avatar-tangculijier.jpg     # use absolute URL, seeing it's
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
-timezone: CN
+
 
 # Friends
 friends: [
