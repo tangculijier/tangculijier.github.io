@@ -2,12 +2,13 @@
 layout:     post
 title:      "博客搬迁"
 subtitle:   "暂无"
-date:       2015-04-28 12:00:00
+date:       2015-04-28 11:00:00
 author:     "tangculijier"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 生活
 ---
+
 #我的标题
 - 1
 - 2 
@@ -16,31 +17,6 @@ tags:
 
 >haha
 
-[跳过废话](#build)
-
-1.dsds
-2.dsds
-3.dsds
-
--dsadasd
-+dsdsds
-+dsdsdsd
-
-**傻了吧**
-***加粗2***
-****加粗3****
-*加粗4*
-
-<p id = "build"></p>
-
-'[我的连接](http://www.baidu.com)'
-
-
----java---
-System.out;
----java---
-
-'java'
 
 * 1
 * 2
