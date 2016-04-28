@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: tangculijier@foxmail.com
 description: "这是一个神奇的网站"
 keyword: "博客"
-url: "http://tangculijier.github.io/"              # your host, for absolute URL
+url: "http://tangculijier.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
