@@ -74,7 +74,7 @@
                 <p class="copyright text-muted">
                     Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
                     <br>
-                    Theme by <a href="http://huangxuan.me">Hux</a> 
+                    Theme by <a href="http://huangxuan.me" target="_blank">Hux</a> 
                 </p>
             </div>
         </div>
@@ -166,7 +166,7 @@
 <!-- target _blank -->
 <script>
 
-    var aTags = document.querySelectorAll('a');
+    var aTags = document.querySelectorAll('p a');
     for (var i = 0; i < aTags.length; i++) 
 	{
         aTags[i].setAttribute('target', '_blank')
