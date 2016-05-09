@@ -6,7 +6,7 @@ date:       2016-05-06
 author:     "tangculijier"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    android
+    Android
 ---
 
 ### 阅读安卓开发文档（1.Intent）
