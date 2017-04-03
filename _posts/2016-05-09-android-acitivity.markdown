@@ -9,7 +9,7 @@ tags:
     Android
 ---
 
-### 阅读安卓开发文档（2.Activity)
+### 阅读安卓开发文档（2.Activity)test
 [google android developer-Activity](http://developer.android.com/intl/zh-cn/guide/components/activities.html)
 
 
