@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:    "恢复博客"
+title:    恢复博客
 subtitle:   ""
 date:       2017-04-02 
 author:     "tangculijier"
