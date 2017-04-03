@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "阅读安卓开发文档（2.Activity）"
+title:    "阅读安卓开发文档（2.Activity）"
 subtitle:   ""
 date:       2016-05-09 
 author:     "tangculijier"
@@ -12,7 +12,6 @@ tags:
 ### 阅读安卓开发文档（2.Activity)
 [google android developer-Activity](http://developer.android.com/intl/zh-cn/guide/components/activities.html)
 
-1111
 **先贴出Activity的生命周期**
 ![java-javascript](/img/in-post/android/activity_lifecycle.png)
 
