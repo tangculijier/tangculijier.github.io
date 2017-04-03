@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "阅读安卓开发文档（2.Activity）"
+title:      "阅读安卓开发文档（2.Activity）test"
 subtitle:   ""
 date:       2016-05-09 
 author:     "tangculijier"
