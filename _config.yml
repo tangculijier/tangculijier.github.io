@@ -70,7 +70,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "安卓渣渣 周杰伦歌迷 詹姆斯死忠"
+sidebar-about-description: "安卓初学者 周杰伦歌迷 詹姆斯死忠"
 sidebar-avatar: /img/avatar-tangculijier.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
